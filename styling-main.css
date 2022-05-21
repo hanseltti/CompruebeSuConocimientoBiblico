@@ -40,7 +40,7 @@ html{
 .textAreaMainPage{
     display: flex;
     width: 280px;
-    height: 600px;
+    height: 30vh;
 }
 
 @media screen and (max-width: 600px) {
