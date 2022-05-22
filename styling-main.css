@@ -44,7 +44,7 @@ html{
 }
 
 @media screen and (max-width: 600px) {
-    .background-content{
+/*     .background-content{
         padding: 5px 50px 0 50px;
         background-image: url(images/pex-Bible-250609.jpg);
         background-position: center;
@@ -55,7 +55,7 @@ html{
     }
     .navbar{
         font-weight: bolder;
-    }
+    } */
 
     .textAreaMainPage{
         width: 189px;
