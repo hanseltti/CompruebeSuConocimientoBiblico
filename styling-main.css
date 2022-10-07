@@ -7,7 +7,7 @@ html{
 /* Main Page */
 .background-content {
     padding: 10px 50px;
-    background-image: url(images/pex-Bible-250609.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)) ,url(images/pex-Bible-250609.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
